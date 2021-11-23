@@ -29,6 +29,7 @@ do
 
 	echo 
 
+	# Below is the JavaScript you're writing into the files
 	echo >> $uniqFile
 	echo "if (typeof javaScriptPayload === 'undefined')
 	{
